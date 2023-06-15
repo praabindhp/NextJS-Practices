@@ -1,0 +1,405 @@
+REACT JS
+========
+Introduction To React.js
+Create React App
+React App Folder Structure
+React 18 Update
+React Fundamentals
+React Fundamentals 2
+Hooks vs Classes
+Class vs Functional App.js
+Quick Note: Service Worker File
+Your First React Component
+Building A React App 1
+React.Fragment and Semantic HTML
+The Dirty Little Secret To Become An Expert
+Exercise: Learn to Read the Docs
+Building A React App 2
+Building A React App 3
+Styling Your React App
+Quick Note: JSON Placeholder
+Building A React App 4
+Building A React App 5
+Building A React App 6
+Project Files
+Keeping Your Projects Up To Date
+Exercise: React 18
+React Review
+Error Boundary In React
+Deploying Our React App
+New React Hooks Documentation
+React Hooks
+React Hooks 2
+React Hooks 3
+React Hooks 4
+React Hooks 5
+React Hooks 6
+React Hooks 7
+React Hooks 8
+Project Files - Hooks
+React Hooks 9
+
+NEXT JS
+=======
+What is Next.js?
+React Fundamentals
+Performance with Next.js
+Image Component in Next.js
+File Based Routing and SEO
+Web Developer Monthly
+Serverless Functions in Next.js
+Next.js vs Create React App
+Create a Next.js app: Zero Config
+How To Upgrade Your Next.js Version
+Upgrade Next.js Version to Next.js 13.4
+Quick Note: Next.js Versions
+Upgrade to Next.js 13.4
+Next.js Version Breaking Changes
+Next.js setup project walkthrough
+What is Fast Refresh?
+What are CSS modules?
+Let's get ready for Home Page
+App background
+Banner Component
+Mobile First Development & Banner Component Styling
+Next.js Head Component
+Routing in Next.js
+Add routing for Coffee Store Page
+What is Dynamic Routing?
+Add route using Link component
+Add routes to Dynamic Pages with Link Component
+Practical Routing
+Style our homepage
+Hero Image Generator
+Add Hero Component
+Next.js Image component
+Hero Image on Home Page
+Hero Image and Button Layout
+Setup fonts in Next.js
+Load fonts on the page
+Document in Next.js
+Quick Note: Fonts in Next.js
+Apply fonts in Document
+What is SEO?
+Pre-rendering in Next.js
+Plain React vs Next.js app
+Different Rendering Techniques in Next.js
+How Pre-rendering helps with Performance
+Static Site Generation (SSG) in Next.js
+Incremental Static Regeneration (ISG) in Next.js
+Quick Note: Incremental Static Regeneration
+Serverside Rendering (SSR) in Next.js
+Client Side Rendering (CSR) in Next.js
+Project Component Architecture
+Card Component Structure
+Card Component Styling
+Grid Layout For Card Component
+Coffee Stores data
+React Strict and Coffee Stores Rendering Twice
+Add Coffee Stores on Page
+Next.js: next.config.js Use Unsplash Image
+What to Pre-render in Coffee Connoisseur App
+Default Pre-rendering in Next.js
+Implement Static Site Generation (SSG)
+Characteristics of Get Static Props in Next.js
+Coffee Stores Heading
+Get Static Paths in Next.js
+Characteristics of Get Static Paths in Next.js
+Implement Get Static Props and Get Static Paths in Next.js
+Fallback in Next.js
+Fallback: false with 404 Page
+Fallback: true
+Refactor Coffee Store Page
+Coffee Store Page Styling
+Coffee Store Page Styling (continued)
+Setup Foursquare Account
+Foursquare Places API
+Rate Limiting
+Foursquare Places API Playground
+Foursquare API in Get Static Props
+Fetch API Async Await
+Env Local vs Env Next.config.js
+Environment Variables in Next.js
+Coffee Stores Library
+Update Foursquare API in Get Static Paths
+Update Coffee Store Library Data
+Important Note: Unsplash API account
+Setup Unsplash API
+Invoke Unsplash API for Coffee Store Images
+Update Coffee Store Library with Images
+Quick Note: Unsplash API perPage should be 30
+Display Coffee Store Images in the Card
+Display all coffee stores images
+Individual Coffee Store Page data
+Update Styling for the App
+Geolocation API Docs
+Using React Hooks
+Create React Hook for Retrieving User Location
+Use the hook for Retrieving User Location
+Quick Note: useEffect in Function
+Client Side Rendering (CSR) Coffee Stores
+Display Coffee Stores by Location on the Page
+Refresh the Dynamic Route (Non-static)
+Fallback in Next.js
+Use React Context and Why to Use Context?
+Create Store Context
+Create Store Reducer in Context
+Store Coffee Stores in Store Context
+Coffee Store Page with Context
+Coffee Store Page for Non-SSG Routes
+Refactor Coffee Store App
+What are API's?
+What are Serverless Functions?
+API routing with Next.js
+Hello World API route
+Create a Serverless Function
+Catch All Routes in Next.js
+Create a Serverless Function for Getting Coffee Stores
+Invoke Serverless Function: Get Coffee Stores
+Serverless Functions inside Get Static Props
+Project Architecture
+What is Airtable?
+Setup Airtable
+API Architecture: Coffee Store Page
+Airtable Library
+Basic Coffee Store API / Serverless function
+API Design: Create Coffee Store
+Find Coffee Store API
+Transform Coffee Store Data
+Airtable Docs: Create Coffee Store
+Airtable Docs: Create Coffee Store (continued)
+API Error Handling
+Refactor Create Coffee Store API
+API Architecture: Invoke API on Coffee Store Page
+Important Note: Coffee Stores are created twice and React Strict Mode
+Invoke Coffee Store API once user navigates
+Create Coffee Store for Statically Generated Route
+SWR Design
+Voting Feature Design
+Coffee Store By Id API
+Coffee Store By Id API Validation
+Refactor Coffee Store By Id API
+What is SWR? (State While Revalidate)
+Important Note: Latest SWR Version: Breaking Changes
+SWR Docs Fetch API
+Use SWR on the Coffee Store Page
+API Design: Favourite Coffee Store By Id API
+Airtable Docs: Favourite Coffee Store By Id API
+Favourite Coffee Store By Id API
+Favourite Coffee Store By Id API (continued)
+Favourite Coffee Store By Id API wrap
+Invoke Favourite Coffee Store By Id API
+Application Demo
+Airtable Final Demo
+Refactor and Cleanup
+What is Deployment?
+Important Note: Running Next Build
+Running Your Application Next Build
+Cloud Ready Application
+Setting up Github Repository
+Create a Github Repository and Push Your Code
+Important: Coffee stores appear from different location on Vercel
+Deployment to Vercel
+Quick Note: Environment Variables
+Vercel Dashboard Walkthrough
+Vercel Production Build Files
+What is Netlify?
+Netlify Deployment
+Quick Note: Netlify Plugin Updates
+Netlify Deployment Configuration Changes
+Lighthouse Performance
+Quick Note: Lighthouse Score
+Lighthouse Performance and SEO Report
+Quick Note: Lighthouse Performance
+Github Projects and Resources
+Setting Up Our Master Project
+Setup Fonts
+Add Font to _Document
+Global App Styling
+Netflix Component Architecture
+Banner Component
+Banner Component Structure
+Banner Component Button With Font
+Icons with Google Fonts
+NavBar Component Structure
+NavBar Component Styling
+NavBar Router
+NavBar Dropdown
+NavBar Logo Icons
+Card Component Architecture
+Card Component Structure
+Card Component Size
+Card Component Error Handling
+Card Component Image Error
+Framer Motion with Card
+Implement Framer Motion with Card Component
+Section Cards Architecture
+Section Cards Structure
+Section Cards Styling
+Card Scaling Feature
+Refactor Section Cards Component
+Youtube API Overview
+Which Youtube API To Use?
+Implement Youtube Search API
+Implement Youtube Search API (continued)
+Data Fetching Technique: Server Side Rendering
+Serverside Rendering (SSR) Rules in Next.js
+Implement Serverside Rendering (SSR) to Fetch Videos
+Youtube API: Google Console Project
+Invoke Youtube API
+Exercise: Youtube API Query
+Solution: Youtube API Query
+Implement More Sections For Videos
+Error Handling for Video Library
+Popular Videos API Docs
+Implement Popular Videos
+What is Passwordless Authentication?
+Overview of Sign-in Page
+Setup of Sign-in Page
+Quick Note: EsLint Error
+Sign-in Header Component
+Sign-in Page Structure
+Sign-in Page Styling
+Sign-in Form Validation
+Sign-in Routing To Dashboard
+What is Magic Links?
+Setup Magic Account
+Install Magic in App
+Magic API Keys
+Magic SDK (continued)
+Magic Docs For Login
+Magic Implementation
+Magic SDK Storage and Routing
+Magic Loading State
+Routing Delay with Login
+Quick Note: Next.js Warning: useEffect with async
+Username on NavBar
+SignOut a User
+App Route once LoggedIn
+Routing Flicker with Login
+Loading Component
+Project Architecture
+What Are We Building and Video Id Page Route
+Create Dynamic Route: Video Id Page
+Link Dynamic Page to Card Component Routing
+Connect Link Component
+Exercise: Link Component
+Solution: Link Component
+Connect Banner Component
+React Modal Docs
+Install React Modal Component
+Quick Note: Modal onRequestClose stopped working after applying styling
+Modal Component Styles
+Implement Youtube API Player & Docs
+Youtube Player Styling
+Modal Component Structure
+Modal Styling
+Which Data Fetching Techniques To Use?
+What is Incremental Static Regeneration?
+Incremental Static Regeneration Fallback
+ISR (Incremental Static Regeneration) Demo and Next Steps
+Incremental Static Regeneration (ISR) Docs
+Implement Incremental Static Regeneration (ISR)
+Incremental Static Regeneration with Youtube API Docs
+Architectural Diagram
+Youtube API by ID
+Fix Link Component Route
+ISR Query Params
+Navbar Component
+YouTube Quota Limit: Test Data
+Why GraphQL?
+What is GraphQL?
+GraphQL Example
+GQL Query vs Mutation
+What is Hasura?
+Hasura API Explorer
+Hasura Dashboard and Signup
+Hasura Create PostGres DB
+Hasura DB Architecture
+Hasura DB Architecture (continued)
+Setup DB
+Hasura Try Out Tables
+Query Live Hasura Server
+Query Live Hasura Server with Environment Variables
+Hasura User Roles
+User Roles: Why JWT (JSON Web Tokens)
+What is JWT (JSON Web Token)
+JWT (JSON Web Token) Secret
+Create JWT Secret and Update Roles
+Authentication Architecture
+Quick Note: How to use Postman?
+Login API
+Login API Architecture
+Login API Create Auth Header
+Login API Magic Server Side SDK
+Login API Magic Server Side SDK Testing
+Login API JWT (JSON Web Token) Docs
+Important Note: Users array is Empty and JWT content in HASURA
+Login API Create JWT (JSON Web Token)
+Login API Hasura Check New User
+Login API Check New User Query
+Login API Refactor
+Login API New User Hasura Dashboard
+Login API Create New User Mutation
+Login API Overview and Cookie
+Login API Set Token Cookie
+Login API Set Token Cookie Testing
+Login API Cleanup
+Invoke Login API on Login
+App Architecture
+Like and Dislike Button Functionality
+Like and Dislike Button Styling
+Like and Dislike Button States
+Stats Rating API Architecture
+Stats API Creation
+Build Stats with Request Cookies
+Stats API Overview with JWT Verification
+Stats API JWT Verification
+Stats API Design GraphQL
+Stats API Design Find User By ID
+Find User By Id GraphQL
+Use Query String For Video ID
+Conditional Logic Does Video Exist?
+GraphiQL: Insert and Update Mutation
+Stats API Use Insert and Update Mutation
+Stats API Testing
+Insert And Update Mutation Implementation
+Stats API Wrap
+Overview of Like Dislike Functionality
+Like Dislike Functionality
+Like Dislike Functionality Testing
+Stats API Design: GET Request
+Tweak Stats API GET Request
+Stats API Refactor
+Invoke Stats API on Frontend
+Watch It Again Architecture
+Watch it Again Query Hasura
+Watch it Again Call in SSR (ServerSide Rendering)
+Render Watch it Again Section on Page
+High Resolution Images in the App
+Cookies inside SSR (ServerSide Rendering)
+Redirects in SSR (ServerSide Rendering)
+Create Redirect User Hook
+Testing the Redirect User Hook
+My List Page Architecture
+Build My List Page
+Styling My List Page
+Hasura Query for My List Page
+Server Side Render My List Page
+Wrap Cards in My List Page
+Logout Assignment
+Logout Solution
+SSR Redirects
+NextJS 13.4: Middleware Introduction
+Important Note: Creating Middleware
+Important Note: Middleware Updates
+NextJS 13.4: Middleware Lets Try it Out
+NextJS 13.4: Middleware Implementation Continued
+Important Note: > Next.js 13.4 Cookies
+How To Make Cloud Ready App
+Create Github Repo
+Application Cleanup
+Deployment To Vercel
+Try The App On Vercel
+Application Testing on Vercel
+Run Production Next Build
