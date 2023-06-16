@@ -1,6 +1,5 @@
 REACT JS
 ========
-Introduction To React.js
 Create React App
 React App Folder Structure
 React 18 Update
@@ -13,7 +12,7 @@ Your First React Component
 Building A React App 1
 React.Fragment and Semantic HTML
 The Dirty Little Secret To Become An Expert
-Exercise: Learn to Read the Docs
+Learn to Read the Documentation
 Building A React App 2
 Building A React App 3
 Styling Your React App
@@ -403,3 +402,5 @@ Deployment To Vercel
 Try The App On Vercel
 Application Testing on Vercel
 Run Production Next Build
+
+https://rb.gy/ryizs
