@@ -1,4 +1,5 @@
 // Question 1
+
 let name = "Praabindh";
 let res = name.split("").reverse().join("");
 console.log(res);
@@ -16,10 +17,10 @@ a.split("").forEach((item, index) => {
 });
 
 console.log(resu);
-
 // console.log(a.split("").reverse().join(""));
 
 // Question 3
+
 let collection = [1, 2, 3, 4, 5];
 let b = collection.reduce((acc, item) => {
     return acc + item;
